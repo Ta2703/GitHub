@@ -1,0 +1,9 @@
+Link  [Ask the Expert: How can women exceed in fintech, often a male-dominated industry?] leads to a page that doesn't exist after clicking in the article	"1. Navigate to capital.com 
+2. Hover over  menu section [More]
+3. Click menu Item [Media Centre]
+4. Click Tab [Capital.com in the news] 
+5. Click Tabbar [United Kingdom]
+6. Scroll down to article ""Ask the Expert: How can women exceed in fintech, often a male-dominated industry?"" 
+7. Click Link [Read More]"	"Link is opened
+"	"Link isn't open
+"
