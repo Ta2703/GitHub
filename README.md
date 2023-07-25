@@ -50,6 +50,8 @@ Severity | Серьезность
 Priority | Приоритет  
 Attachments | Приложение
 
+```Esc, :wq, enter```
+
 4. Запушить структуру багрепорта на внешний репозиторий
 ```
  git add . 
@@ -74,6 +76,7 @@ Title
 	Actual_result  
 	Expected_result  
 	Attachments  
+```Esc, :wq, enter```
 
 8. Запушить структуру на внешний репозиторий 
 ```
