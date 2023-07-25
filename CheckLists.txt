@@ -1,12 +1,4 @@
-
-Выполняемая задача
-
-Статус
-
-Регистрация по e-mail
-
-Passed
-
-Регистрация через Facebook
-
-Passed
+Title
+Actual_result
+Expected_result
+Attachments
